@@ -1,3 +1,4 @@
+cd C:\Users\gzamenski\OneDrive - Intrado\Desktop\Army Leader Book\Current Team Members\Sgt Z\School Stuff\Programing (COCS 111,112)\COCS111_FinalProject_Zamenski
 git add .
 git commit -m "update"
 git push
