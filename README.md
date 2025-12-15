@@ -1,5 +1,15 @@
 Project Title: Banking Application
 
-How to Run Program: Navigate through system menues with numerical inputs User can create account by selecting account type (checking or savings)
+How to Run Program: Navigate through banking application system menues with numerical inputs
 
-Summary/Features: Create multiple accounts (up to 10) with a choice between checking and saving identifiers Deposit ammount into account to successfully create account Ability to Deposit & Withdraw from specified account Generate Account Summary.
+Summary/Features: Banking Application
+ *
+ * Allows user to do the following via Numerical Pad:
+ *
+ * Create New Accounts
+ * Select Account Type (Checking/Saving)
+ * Make Deposits into Accounts
+ * Make Withdrawals from Accounts
+ * Shown Specific Account Summary
+ * Search Account by Type
+ *
